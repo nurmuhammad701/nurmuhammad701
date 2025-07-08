@@ -24,9 +24,9 @@ I'm a Go backend developer currently working at **UCELL** 📱 and studying at *
 
 
 ## 🔥 GitHub Stats
-![Nurmuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurmuhammadMel&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurmuhammadMel&layout=compact&theme=github_dark)
-![Profile Views](https://komarev.com/ghpvc/?username=NurmuhammadMel&color=blue)
+![Nurmuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurmuhammad701&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammad701&layout=compact&theme=github_dark)
+![Profile Views](https://komarev.com/ghpvc/?username=nurmuhammad701&color=blue)
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=NurmuhammadMel&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nurmuhammad701&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
