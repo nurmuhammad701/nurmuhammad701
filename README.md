@@ -8,7 +8,6 @@
 
 <p align="center">
   💼 <strong>Backend Developer</strong> at: <strong>UCELL</strong> <br/>
-  🌱 Learning: gRPC, Kafka, Redis, Microservices, MongoDB, PostgreSQL
 </p>
 
 ---
