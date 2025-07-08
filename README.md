@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nurmuhammad;Backend+developer+from+Uzbekistan" alt="Typing SVG" />
 </h1>
 
-# Hi, I'm Nurmuhammad 👋
-
 I'm a Go backend developer currently working at **UCELL** 📱 and studying at **TSUE** 🇺🇿
 
 - 💼 Backend Developer at: **UCELL**  
