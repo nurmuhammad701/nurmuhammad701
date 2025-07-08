@@ -20,3 +20,13 @@ I'm a Go backend developer currently working at **UCELL** 📱 and studying at *
 ## 📫 Contact me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhammad-meliqo-ziyev-7b1024298/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nurmuhammadmel@gmail.com)
+
+
+
+## 🔥 GitHub Stats
+![Nurmuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurmuhammadMel&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurmuhammadMel&layout=compact&theme=github_dark)
+![Profile Views](https://komarev.com/ghpvc/?username=NurmuhammadMel&color=blue)
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=NurmuhammadMel&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
